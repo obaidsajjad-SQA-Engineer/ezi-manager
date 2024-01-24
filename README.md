@@ -78,12 +78,12 @@ git clone https://github.com/osmughal01/ezi-manager.git
 ## Contributing
 If you want to contribute to this project, follow these steps:
 
-### Fork the repository.
-### Create a new branch for your feature: git checkout -b feature-name
-### Commit your changes: git commit -m 'Add some feature'
-### Push to the branch: git push origin feature-name
-### Submit a pull request.
+Fork the repository.
+Create a new branch for your feature: git checkout -b feature-name
+Commit your changes: git commit -m 'Add some feature'
+Push to the branch: git push origin feature-name
+Submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
