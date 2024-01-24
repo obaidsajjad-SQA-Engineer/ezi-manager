@@ -48,17 +48,23 @@ git clone https://github.com/osmughal01/ezi-manager.git
   
 3. Run the application: flutter run
 
-##Screenshots
+## Screenshots
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/1.png" alt="Screenshot 1" /></td>
+    <td align="center"><img src="screenshots/2.png" alt="Screenshot 2" /></td>
+    <td align="center"><img src="screenshots/3.png" alt="Screenshot 3" /></td>
+  </tr>
+</table>
 
-
-##Contributing
+## Contributing
 If you want to contribute to this project, follow these steps:
 
-###Fork the repository.
-###Create a new branch for your feature: git checkout -b feature-name
-###Commit your changes: git commit -m 'Add some feature'
-###Push to the branch: git push origin feature-name
-###Submit a pull request.
+### Fork the repository.
+### Create a new branch for your feature: git checkout -b feature-name
+### Commit your changes: git commit -m 'Add some feature'
+### Push to the branch: git push origin feature-name
+### Submit a pull request.
 
 ##License
 This project is licensed under the MIT License.
